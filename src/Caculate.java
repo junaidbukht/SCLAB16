@@ -5,7 +5,9 @@ public class Caculate {
 
 	{
 		Add ad=new Add();
+		Sub ac=new Sub();
 		ad.sum1();
+		ac.subb();
 		
 	}
 }
