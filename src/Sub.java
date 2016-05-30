@@ -16,7 +16,8 @@ public class Sub {
 		System.out.println("Write Second Number");
 		d=sc.nextInt();
 		sub1=c-d;
-		System.out.println("Sum is" + sub1);	
+		System.out.println("Sum is" + sub1);
+		System.out.println("Write Second Number");
 	}
 	
 }
