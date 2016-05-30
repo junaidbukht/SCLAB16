@@ -12,6 +12,7 @@ public class Add {
 		b=ss.nextInt();
 		sum=a+b;
 		System.out.println("Sum is" + sum);
+		
 	}
 
 }
